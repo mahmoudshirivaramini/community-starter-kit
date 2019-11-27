@@ -1,10 +1,11 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Placeholder is something that help you put your mobile, for example, on this and use Google Map application when you are driving. It's cool!
 
 ## What it does
 
-FEATURES PLACEHOLDER
+* fit to carry your mobile, tablet
+
 
 ## Getting started
 
